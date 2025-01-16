@@ -1,4 +1,4 @@
 #!/bin/sh
 
 pip install --upgrade yt-dlp
-yt-dlp --config-location yt-dlp.conf
+yt-dlp --config-location config/member.conf
